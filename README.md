@@ -1,14 +1,22 @@
 ## Rodrigo Martins (rrmartins) 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rrmartins&count_private=true&show_icons=true)
-
+<div>
+  <a href="https://github.com/rrmartins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmartins&layout=compact&langs_count=7&theme=dracula"/>
+</div
 
 #### About Me
 - 💬 Ask me about programming languages
 - ⚡Check out my website
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="rrmartins-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="rrmartins-elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rrmartins)](https://github.com/rrmartins)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rrmartins/)](https://www.linkedin.com/in/rrmartins/)
-
+<div style="display: inline_block"><br>  
+  <a href="https://www.linkedin.com/in/rrmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <!--
 ### Hi there 👋
 
