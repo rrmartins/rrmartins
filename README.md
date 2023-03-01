@@ -1,10 +1,11 @@
 ## Rodrigo Martins (rrmartins) 👋
+<!--
 <div>
   <a href="https://github.com/rrmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmartins&layout=compact&langs_count=7&theme=dracula"/>
-</div
-
+</div>
+-->
 #### About Me
 - 💬 Ask me about programming languages
 - ⚡Check out my website
